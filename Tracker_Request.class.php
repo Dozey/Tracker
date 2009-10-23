@@ -1,4 +1,6 @@
 <?php
+require_once 'Tracker_Exception.class.php';
+
 /**
  * abstract request handler
  *

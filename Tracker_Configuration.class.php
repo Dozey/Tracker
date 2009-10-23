@@ -1,4 +1,6 @@
 <?php
+require_once 'Tracker_ConfigurationBase.class.php';
+
 /**
  * Represents the top level of an INI file
  *

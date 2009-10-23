@@ -1,4 +1,8 @@
 <?php
+require_once 'Tracker_Exception.class.php';
+require 'Tracker_Peer.class.php';
+require 'Tracker_Torrent.class.php';
+
 /**
  * Database layer
  *

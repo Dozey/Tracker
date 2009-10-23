@@ -1,4 +1,7 @@
 <?php
+require_once 'Tracker_ConfigurationSectionBase.class.php';
+require_once 'Tracker_ConfigurationBase.class.php';
+
 /**
  * Represents a section of an INI file
  *

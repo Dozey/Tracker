@@ -1,4 +1,5 @@
 <?php
+require_once 'Tracker_Exception.class.php';
 /**
  * Wrapper for PHP Memcache
  *

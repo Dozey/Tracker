@@ -1,4 +1,13 @@
 <?php
+require_once 'Tracker_Configuration.class.php';
+require_once 'Tracker_AnnounceRequest.class.php';
+require_once 'Tracker_ScrapeRequest.class.php';
+require_once 'Tracker_Data.class.php';
+require_once 'Tracker_Memcache.class.php';
+require_once 'Tracker_Exception.class.php';
+require_once 'Tracker_Peer.class.php';
+require_once 'Tracker_Torrent.class.php';
+
 /**
  * Bittorrent Tracker
  *

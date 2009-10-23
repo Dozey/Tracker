@@ -1,4 +1,11 @@
 <?php
+require_once 'BEncodedList.class.php';
+require_once 'BEncodedDictionary.class.php';
+require_once 'Tracker.class.php';
+require_once 'Tracker_Torrent.class.php';
+require_once 'Tracker_Request.class.php';
+require_once 'Tracker_Data.class.php';
+
 /**
  * Tracker announce request handler
  *

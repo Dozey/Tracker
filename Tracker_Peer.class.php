@@ -1,4 +1,6 @@
 <?php
+require_once 'Tracker_Data.class.php';
+
 /**
  * Represents a tracker peer
  *
